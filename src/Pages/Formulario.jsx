@@ -19,7 +19,7 @@ const Formulario = () => {
                 <p>Liderar uma equipe e </p>
                 <p>criar meu projeto.</p>
 
-                <a href="https://forms.office.com/r/86QJiipHBV" target="_blank">
+                <a href="https://forms.office.com/r/AUJy811Rqe" target="_blank">
                 <button className="projbutton">Candidatar</button>
                 </a>
               </div>
@@ -31,7 +31,7 @@ const Formulario = () => {
                 <p>equipe e ajudar a </p>
                 <p>desenvolver projetos.</p>
 
-                <a href='https://forms.office.com/r/htLXDPHHzy' target="_blank">
+                <a href='https://forms.office.com/r/yKzyhz8v4d' target="_blank">
                 <button className="vonbutton">Candidatar</button>
                 </a>
                 </div>

@@ -17,7 +17,7 @@ const Parcerias = () => {
                 <p>Participar como </p>
                 <p>parceiro do LITA.</p>
               <div  className="parccard">
-                <a href="https://forms.office.com/r/yqRBgvey6g" target="_blank">
+                <a href="https://forms.office.com/r/4JZaURjzgp" target="_blank">
                 <button className="parcbutton">Contatar</button>
                 </a>
               </div>
